@@ -43,3 +43,11 @@ footer {
   text-align: center;
   background: #f0dfd1;
 }
+.recipe-image {
+  width: 250px;
+  height: 170px;
+  object-fit: cover;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
